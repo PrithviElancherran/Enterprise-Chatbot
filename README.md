@@ -1,4 +1,4 @@
-# Enterprise-Chatbot - Chatbot as a Service (CaaS) Platform
+# Enterprise Chatbot - Chatbot as a Service (CaaS) Platform
 
 Empower your enterprise with a customizable chatbot service that leverages your internal knowledge base to provide accurate, context-aware answers.
 
